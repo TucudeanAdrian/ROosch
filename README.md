@@ -1,7 +1,6 @@
 # ROosch
 #instalati Python 3.7x
 # deschideti cmd si intrati in folderul ROosch(Windows)
-rulati urmatoarele comenzi:
 
 python -m pip install -r necesare.txt
 
