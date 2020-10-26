@@ -1,4 +1,4 @@
-# ROosch
+# ROosch PYTHON 
 #instalati Python 3.7x
 # deschideti cmd si intrati in folderul ROosch(Windows)
 
@@ -10,5 +10,11 @@ python incercare.py sau deschideti fisierul WindowsStartup.bat
 python3 -m pip install -r necesare.txt
 
 python3 incercare.py sau deschideti fisierul LinuxStartup.sh
+
+# Rosch JAVA 
+Instalati ultima versiune de la Android studio impreuna cu Java Development Kit 15
+
+Deschideti proiectul in Android Studio si dati Build apoi Run
+
 
 
