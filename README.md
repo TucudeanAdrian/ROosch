@@ -1,11 +1,11 @@
 # ROosch
 #instalati Python 3.7x
-# deschideti cmd sau terminal si intrati in folderul ROosch
+# deschideti cmd si intrati in folderul ROosch(Windows)
 #rulati urmatoarele comenzi:
 python -m pip install -r necesare.txt
 python incercare.py 
-(windows)
 
+# deschideti terminal si intrati in folderul ROosch(Linux/macos)
 python3 -m pip install -r necesare.txt
 python3 incercare.py
 (linux/macos)
